@@ -23,7 +23,7 @@ export default function Home() {
             bring your fashion ideas to life.
           </p>
           <p className="text-lg">
-            Our commitment to quality and attention to detail sets us apart in the industry. Whether you're a fashion
+            Our commitment to quality and attention to detail sets us apart in the industry. Whether you&apos;re a fashion
             designer, a retail brand, or an organization looking for custom bags, Del Garments is your trusted partner
             in bringing your vision to reality.
           </p>

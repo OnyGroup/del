@@ -14,7 +14,7 @@ export default function Contact() {
           <CardHeader>
             <CardTitle>Get in Touch</CardTitle>
             <CardDescription>
-              We'd love to hear from you! Reach out to us through any of the following channels:
+            We&apos;d love to hear from you! Reach out to us through any of the following channels:
             </CardDescription>
           </CardHeader>
           <CardContent>
@@ -75,7 +75,7 @@ export default function Contact() {
         <Card className="lg:w-1/2 animate-fade-in-right">
           <CardHeader>
             <CardTitle>Send us a Message</CardTitle>
-            <CardDescription>Fill out the form below and we'll get back to you as soon as possible.</CardDescription>
+            <CardDescription>Fill out the form below and we&apos;ll get back to you as soon as possible.</CardDescription>
           </CardHeader>
           <CardContent>
             <form className="space-y-4">

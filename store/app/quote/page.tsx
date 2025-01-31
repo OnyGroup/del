@@ -12,7 +12,7 @@ export default function Quote() {
         <CardHeader>
           <CardTitle>Request a Custom Quote</CardTitle>
           <CardDescription>
-            Fill out the form below and we'll provide you with a custom quote for your project.
+            Fill out the form below and we&apos;ll provide you with a custom quote for your project.
           </CardDescription>
         </CardHeader>
         <CardContent>
