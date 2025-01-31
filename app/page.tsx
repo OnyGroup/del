@@ -18,14 +18,15 @@ export default function Home() {
         </div>
         <div className="md:w-1/2 space-y-4 animate-fade-in-right">
           <p className="text-lg">
-            Del Garments is a leading clothing company in Nairobi, Kenya, offering top-notch garment manufacturing
-            services and custom bags. With our expertise in apparel sampling, grading, patterning, and development, we
-            bring your fashion ideas to life.
+            Del Garments is a premier garment manufacturing company based in Nairobi, Kenya, specializing in
+            high-quality clothing production and custom bag creation. Our comprehensive services encompass apparel
+            sampling, grading, patterning, and product development.
           </p>
           <p className="text-lg">
-            Our commitment to quality and attention to detail sets us apart in the industry. Whether you&apos;re a fashion
-            designer, a retail brand, or an organization looking for custom bags, Del Garments is your trusted partner
-            in bringing your vision to reality.
+            With our state-of-the-art facilities and skilled craftspeople, we transform your innovative fashion concepts
+            into tangible, market-ready products. Whether you're an emerging designer, an established brand, or an
+            organization seeking bespoke merchandise, Del Garments is your trusted partner in bringing your vision to
+            life.
           </p>
           <Button asChild>
             <Link href="/services">Explore Our Services</Link>
