@@ -90,10 +90,10 @@ export default function Contact() {
       </div>
       <div className="mt-8 animate-fade-in-up">
         <Image
-          src="/placeholder.svg?height=400&width=1200&text=Map"
+          src="/images/del_happy_guy.jpg"
           alt="Del Garments Location"
-          width={1200}
-          height={400}
+          width={1500}
+          height={630}
           className="rounded-lg shadow-lg w-full"
         />
       </div>

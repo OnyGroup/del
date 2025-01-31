@@ -9,7 +9,7 @@ export default function Home() {
       <div className="flex flex-col md:flex-row items-center mb-8">
         <div className="md:w-1/2 mb-4 md:mb-0 md:pr-4">
           <Image
-            src="/placeholder.svg?height=400&width=600"
+            src="/images/garments_home.jpg"
             alt="Del Garments Factory"
             width={600}
             height={400}
