@@ -4,29 +4,29 @@ import { ModeToggle } from "./ModeToggle"
 
 const Header = () => {
   return (
-    <header className="bg-primary text-primary-foreground p-4 shadow-md">
+    <header className="bg-background text-foreground border-b p-4 shadow-sm">
       <nav className="container mx-auto flex justify-between items-center">
-        <Link href="/" className="text-2xl font-bold hover:text-secondary transition-colors">
+        <Link href="/" className="text-2xl font-bold hover:text-primary transition-colors">
           Del Garments
         </Link>
         <ul className="flex space-x-4 items-center">
           <li>
-            <Link href="/" className="hover:text-secondary transition-colors">
+            <Link href="/" className="hover:text-primary transition-colors">
               Home
             </Link>
           </li>
           <li>
-            <Link href="/services" className="hover:text-secondary transition-colors">
+            <Link href="/services" className="hover:text-primary transition-colors">
               Services
             </Link>
           </li>
           <li>
-            <Link href="/contact" className="hover:text-secondary transition-colors">
+            <Link href="/contact" className="hover:text-primary transition-colors">
               Contact
             </Link>
           </li>
           <li>
-            <Button asChild>
+            <Button asChild variant="outline">
               <Link href="/quote">Get a Quote</Link>
             </Button>
           </li>
